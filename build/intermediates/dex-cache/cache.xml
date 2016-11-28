@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-80c3c535594f24f0add35219b69829c2a96ed55a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\core-3.2.1-4d82c07381bb90dc5ed7c46da35c309b0e414067.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-d98cf3b7f1cdf87e9a01278e3eed5178bc6500c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-bb1973a1d271ea2f1de429f9408caa2e06625258.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-c38a48ce183ce56c51b1f88531731940c3446011.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-66e74d3896a94aa121afdac547ea23c9e227b77b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.dlazaro66.qrcodereaderview\qrcodereaderview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd3f0aeca8f8e53d60cad6597e69d5d753fb0360">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-841cd4ad00b375ff79b97ee5e199891a5af2a91b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.dlazaro66.qrcodereaderview\qrcodereaderview\1.0.0\jars\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\core-495dd0cec1cb7a5aa165925531e637a1daa7361b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-c4de2d67b4b0e5e8a257aa74281b76b5516fab5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\dan\Desktop\StuScanner\app\build\intermediates\pre-dexed\debug\classes-11988e195328f847b65fafb71a5735fe2628c6db.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StuScanner</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="college_prompt">College</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="college_array">
+        <item>NCI</item>
+        <item>DCU</item>
+        <item>DIT</item>
+        <item>MUI</item>
+        <item>NUI</item>
+        <item>IADT</item>
+        <item>UCD</item>
+        <item>Trinity</item>
+        <item>UCC</item>
+        <item>RCSI</item>
+    </string-array>
+
+
+</resources>
